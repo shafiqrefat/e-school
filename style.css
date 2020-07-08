@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#button{
+    width: 104px;
+    height: 43px;
+    padding: 10px 25px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    text-decoration: none;
+}
+span{
+    width: 405px;
+    height: 140px;
+    color: #21B573;
+    font-weight: 500;
+    font-size: 48px;
+    font-style: normal;
+    line-height: 70px;
+}
+#banner{
+    margin-top: 100px;
+}
+#whole-top-section{
+    background-color: #F0FFF0;
+}
+#container-card{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px gray;
+    padding: 40px 20px;
+    background-color: #F0FFF0;
+}
+.card-body{
+    margin-top: 10px;
+}
+.card:hover{
+    background-color: white;
+}
+#online-courses{
+    padding-top: 100px;
+}
+.date{
+    margin-top: 20px;
+}
+.online-course-heading{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+#man-comments{
+    margin-top: 100px;
+}
+.testimonial{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 100px;
+
+}
+.comments{
+    margin-bottom: 50px;
+}
+#footer-section{
+    margin-top: 150px;
+}
+
+footer li{
+    list-style: none;
+    line-height: 1.8rem;
+}
+footer a{
+    text-decoration: none;
+    color: gray;
+    font-weight: 400;
+}
+footer a:hover{
+    color: white;
+    text-decoration: none;
+}
+footer ul li:first-child{
+    font-size: medium;
+    color: white;
+    font-weight: 500;
+}
+footer{
+    background-color: #282531;
+    font-size: small;
+    color: gray;
+    padding: 2px;
+    font-weight: 400;
+}
+footer p{
+    margin-bottom: 1rem;
+    margin: 50px;
+    text-align: justify;
+}
+
