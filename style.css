@@ -1,6 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    margin-top: 100px;
+}
+.navbar{
+    background-color:#F0FFF0 ;
+}
 
 #button{
     width: 104px;
@@ -22,12 +28,11 @@ span{
 }
 #banner{
     margin-top: 100px;
-}
-#whole-top-section{
     background-color: #F0FFF0;
 }
-#container-card{
-    margin-top: 100px;
+.learn{
+    margin-top: 50px;
+    padding-bottom: 30px;
 }
 .card{
     border: none;
@@ -36,13 +41,10 @@ span{
     background-color: #F0FFF0;
 }
 .card-body{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .card:hover{
     background-color: white;
-}
-#online-courses{
-    padding-top: 100px;
 }
 .date{
     margin-top: 20px;
@@ -52,14 +54,10 @@ span{
     font-weight: bold;
     margin-bottom: 50px;
 }
-#man-comments{
-    margin-top: 100px;
-}
 .testimonial{
     text-align: center;
     font-weight: bold;
     margin-bottom: 100px;
-
 }
 .comments{
     margin-bottom: 50px;
@@ -73,9 +71,7 @@ footer li{
     line-height: 1.8rem;
 }
 footer a{
-    text-decoration: none;
     color: gray;
-    font-weight: 400;
 }
 footer a:hover{
     color: white;
@@ -88,14 +84,9 @@ footer ul li:first-child{
 }
 footer{
     background-color: #282531;
-    font-size: small;
+    font-size: 14px;
     color: gray;
-    padding: 2px;
-    font-weight: 400;
+    padding: 1px;
 }
-footer p{
-    margin-bottom: 1rem;
-    margin: 50px;
-    text-align: justify;
-}
+
 
